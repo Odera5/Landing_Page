@@ -1,0 +1,56 @@
+.hero {
+    background-color: #1f2937;
+    height: 400px;
+
+
+
+    .header {
+        display: flex;
+        justify-content: space-between;
+        margin-left: 100px;
+        color: #f9faf8;
+
+
+    }
+
+    .links {
+        display: flex;
+        gap: 20px;
+        margin-right: 100px;
+        color: #f9faf8;
+
+    }
+
+    .awesome {
+        display: flex;
+        justify-content: space-between;
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-top: 50px;
+        ;
+    }
+
+    .button {
+        background-color: #3882f6;
+        width: 70px;
+        color: #e5e7eb;
+        border-radius: 5px;
+    }
+
+    .place {
+        display: flex;
+        background-color: grey;
+        color: #f9faf8;
+        align-items: center;
+        padding: 70px;
+        justify-content: center;
+        width: 500px;
+    }
+
+    .paragraph {
+        color: #e5e7eb;
+    }
+
+    .web {
+        color: #e5e7eb;
+    }
